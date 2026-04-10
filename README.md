@@ -3,8 +3,7 @@
 
 This repository contains the MATLAB implementation for analyzing lubrication regime transitions in journal bearings under high-load conditions (20 MPa).
 
-# Journal-Bearing-Friction-Analysis
-experimental evaluation of mixed friction in journal bearings using contact voltage and lubricant cleanliness data.
+
 ## 📊 Experimental Results
 
 ### Test Bench Setup
